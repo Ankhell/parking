@@ -1,0 +1,1 @@
+data class Car(val colour: String, val licensePlate: String)
